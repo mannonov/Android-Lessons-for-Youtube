@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Qaysi biri yaxshi</string>
+    <string name="hint">Javobingizni shu yerga kiriting!</string>
+    <string name="enter">Enter</string>
+    <string name="sizning_javobingiz">Sizning Javoibingiz :</string>
+    <string name="answer">answer</string>
+    <string-array name="items">
+        <item>1-rasm</item>
+        <item>2-rasm</item>
+    </string-array>
+</resources>
